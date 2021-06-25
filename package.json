@@ -17,5 +17,9 @@
   },
   "devDependencies": {
     "@types/jest": "^26.0.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamienSn/custom-password-generator"
   }
 }

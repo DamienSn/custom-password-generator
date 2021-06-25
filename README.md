@@ -1,6 +1,9 @@
 # Password generator
 Allows you to generate password with customs parameters
 
+# Installation
+`npm install custom-password-generator`
+
 # Usage
 ```
     const {randomPassword} = require('custom-password-generator');
