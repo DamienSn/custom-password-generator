@@ -4,7 +4,7 @@
   "description": "Generator of secure password, entire customizables",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --verbose"
   },
   "keywords": [
     "password",
