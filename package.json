@@ -1,0 +1,21 @@
+{
+  "name": "custom-password-generator",
+  "version": "1.1.0",
+  "description": "Generator of secure password, entire customizables",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [
+    "password",
+    "password generator"
+  ],
+  "author": "Damien STEPHAN",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23"
+  }
+}
