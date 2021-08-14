@@ -1,6 +1,6 @@
 {
   "name": "custom-password-generator",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Generator of secure password, entire customizables",
   "main": "index.js",
   "scripts": {

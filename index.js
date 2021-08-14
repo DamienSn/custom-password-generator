@@ -47,5 +47,3 @@ exports.randomPassword =  (
 function randomNumber (range) {
     return Math.floor(Math.random() * range);
 }
-
-console.log(this.randomPassword({length: 14}))
